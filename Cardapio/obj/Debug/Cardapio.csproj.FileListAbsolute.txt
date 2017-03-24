@@ -17,3 +17,4 @@ c:\users\adams\documents\visual studio 2012\Projects\Cardapio\Cardapio\obj\Debug
 c:\users\adams\documents\visual studio 2012\Projects\Cardapio\Cardapio\obj\Debug\Cardapio.dll
 c:\users\adams\documents\visual studio 2012\Projects\Cardapio\Cardapio\obj\Debug\Cardapio.pdb
 c:\users\adams\documents\visual studio 2012\Projects\Cardapio\Cardapio\obj\Debug\XapCacheFile.xml
+c:\users\adams\documents\visual studio 2012\Projects\Cardapio\Cardapio\obj\Debug\Sobremesas.g.cs
