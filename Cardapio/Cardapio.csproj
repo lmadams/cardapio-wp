@@ -132,6 +132,7 @@
     <Content Include="Assets\ApplicationIcon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\banoffe.jpg" />
     <Content Include="Assets\bera.jpg" />
     <Content Include="Assets\cabotia.jpg" />
     <Content Include="Assets\churrasco.png" />
@@ -139,6 +140,7 @@
     <Content Include="Assets\lasanha.jpg" />
     <Content Include="Assets\pizza.jpg" />
     <Content Include="Assets\pudim.png" />
+    <Content Include="Assets\sagu.jpg" />
     <Content Include="Assets\taco.png" />
     <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

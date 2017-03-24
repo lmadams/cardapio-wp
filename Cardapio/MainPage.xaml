@@ -115,7 +115,8 @@
                 </StackPanel>
             </ScrollViewer>
             
-            <Button Content="sobremesas" HorizontalAlignment="Left" Margin="0,528,0,10" Width="456" Click="Button_Click"/>
+            <Button Content="sobremesas" HorizontalAlignment="Left" Margin="0,528,0,10" Width="456" 
+                    Click="Button_Click" Background="{StaticResource PhoneAccentBrush}"/>
         </Grid>
 
         <!--Uncomment to see an alignment grid to help ensure your controls are

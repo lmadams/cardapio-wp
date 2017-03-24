@@ -38,6 +38,24 @@
                         <TextBlock HorizontalAlignment="Left" Margin="119,53,0,0" TextWrapping="Wrap" 
                                    Text="descricao do Prato" VerticalAlignment="Top" Width="317" FontSize="20"/>
                     </Grid>
+
+                    <Grid HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Margin="10,0,0,0" Width="436">
+                        <Image HorizontalAlignment="Left" Height="50" VerticalAlignment="Center" Width="100" 
+                               Source="/Assets/banoffe.jpg"/>
+                        <TextBlock HorizontalAlignment="Left" Margin="119,16,0,0" TextWrapping="Wrap" 
+                                   Text="banoffe" VerticalAlignment="Top" Width="155" FontSize="28"/>
+                        <TextBlock HorizontalAlignment="Left" Margin="119,53,0,0" TextWrapping="Wrap" 
+                                   Text="descricao do Prato" VerticalAlignment="Top" Width="317" FontSize="20"/>
+                    </Grid>
+
+                    <Grid HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Margin="10,0,0,0" Width="436">
+                        <Image HorizontalAlignment="Left" Height="50" VerticalAlignment="Center" Width="100" 
+                               Source="/Assets/sagu.jpg"/>
+                        <TextBlock HorizontalAlignment="Left" Margin="119,16,0,0" TextWrapping="Wrap" 
+                                   Text="sagu" VerticalAlignment="Top" Width="155" FontSize="28"/>
+                        <TextBlock HorizontalAlignment="Left" Margin="119,53,0,0" TextWrapping="Wrap" 
+                                   Text="descricao do Prato" VerticalAlignment="Top" Width="317" FontSize="20"/>
+                    </Grid>
                 </StackPanel>
             </ScrollViewer>
         </Grid>
